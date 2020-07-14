@@ -1,0 +1,21 @@
+{
+  "name": "nodedir",
+  "version": "1.0.0",
+  "description": "NodeJS for showing all files in directory",
+  "main": "app.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node app",
+    "dev": "cross-env NODE_ENV=development nodemon app"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "get-video-duration": "^3.0.0",
+    "mongoose": "^5.9.23"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "nodemon": "^2.0.4"
+  }
+}

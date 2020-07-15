@@ -1,6 +1,3 @@
-# dir-scan
-Scanning directory and returning all files name and size in json format in NodeJS
-
 <p align="center"><img src="https://openhertz.com/img/logo-text.svg" height="60"></p>
 
 <p align="center">
